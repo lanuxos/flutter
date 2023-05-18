@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Day",
+        "subtitle":"Day task, todo, info",
+        "imageUrl":"https://cdn.pixabay.com/photo/2017/08/14/17/12/cows-2641195_960_720.jpg",
+        "detail":"Daily to do list are a common way to manage tasks for types of people. Used for work, home, and well… for some. at any given opportunity. They can range from scribbled notes on paper, to lists constructed using the various digital tools available. Excel, Google or Microsoft. Although they can take many different forms. the desired outcome is always the same."
+    },
+    {
+        "title":"Week",
+        "subtitle":"Week task, todo, info",
+        "imageUrl":"https://cdn.pixabay.com/photo/2016/08/22/13/21/shop-1611902_960_720.jpg",
+        "detail":"A weekly to do list is a list of all the essential tasks you have to accomplish in a given week. But the beauty of its simplicity belies the power of the weekly to do list. \nThere’s more than meets the eye with that simple definition. There are guidelines surrounding this weekly todo list that turn it into something more than a jumble of panicked items you want to finish up this week."
+    },
+    {
+        "title":"Month",
+        "subtitle":"Month task, todo, info",
+        "imageUrl":"https://cdn.pixabay.com/photo/2016/07/28/19/42/rice-1549130_960_720.jpg",
+        "detail":"Most typically, they’re organised in order of priority. Traditionally, they’re written on a piece of paper or post it notes and act as a memory aid. As technology has evolved we have been able to create a todo lists with excel spreadsheets, word documents, email lists, todo list apps, Microsoft to do and google to do list to name a few. \nYou can use a to do list in your home and personal life, or in the workplace. Having a list of everything you need to do written down in one place means you shouldn’t forget anything important. By prioritising the tasks in the list you plan the order in which you’re going to do them and can quickly see what needs your immediate attention and what tasks you can leave until a little later."
+    },
+    {
+        "title":"Quarter",
+        "subtitle":"Quarter task, todo, info",
+        "imageUrl":"https://cdn.pixabay.com/photo/2016/11/19/21/01/analysis-1841158_960_720.jpg",
+        "detail":"To-do lists are a list of tasks that an individual needs to complete or accomplish. Tasks are typically put in order by priority or importance. A to-do list can be written on a piece of paper or by utilizing task management software. \nItems on the list can pertain to one's personal or professional life."
+    },
+    {
+        "title":"Year",
+        "subtitle":"Year task, todo, info",
+        "imageUrl":"https://cdn.pixabay.com/photo/2016/11/29/03/43/shovel-1867123_960_720.jpg",
+        "detail":"Now that you know how to better prioritize your tasks and focus, let’s find out what a yearly to-do list is. This is a list to write down all of the things that you want to do this year. \nThe key word here is “want”. A yearly to-do list is not for home improvement projects or business goals. It is for the activities and experiences you always want to do/try but never take the time to."
+    }
+]
